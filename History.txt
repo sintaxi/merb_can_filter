@@ -1,0 +1,19 @@
+=== 0.1.3 / 2008-03-06
+
+* 1 minor enhancement
+  * changed trigger to eg. merb_can_filter :body, :excerpt
+
+=== 0.1.2 / 2008-03-05
+
+* 1 minor enhancement
+  * renamed to merb_can_filter
+
+=== 0.1.1 / 2008-03-05
+
+* 1 minor enhancement
+  * now requires redcloth, bluecloth and coderay
+
+=== 0.1.0 / 2008-03-05
+
+* 1 major enhancement
+  * Birthday!

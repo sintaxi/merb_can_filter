@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/merb_can_filter
+lib/merb_can_filter.rb
+test/test_merb_can_filter.rb
