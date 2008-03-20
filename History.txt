@@ -1,3 +1,8 @@
+=== 0.1.4 / 2008-03-20
+
+* 1 minor enhancement
+  * removed 'require' for BlueCloth and RedCloth
+
 === 0.1.3 / 2008-03-06
 
 * 1 minor enhancement
